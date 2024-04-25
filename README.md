@@ -1,5 +1,7 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+
+## Name : P.Keerthana
+## Reg No. : 212223240069
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+
+![image](https://github.com/keerthanapillaram/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/145743072/981e867a-b94f-4512-8846-faa9c56848dd)
 
 
 ## RESULT:
